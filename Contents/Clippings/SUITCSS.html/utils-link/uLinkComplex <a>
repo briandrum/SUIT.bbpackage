@@ -1,0 +1,4 @@
+<a class="u-linkComplex" href="#placeholderstart# url #placeholderend#">
+  #insertion#
+  <span class="u-linkComplexTarget">#selectionorinsertion#</span>
+</a>
